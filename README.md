@@ -1,4 +1,4 @@
-Netflix-clone 
+* Netflix-clone 
 you can see all the posters for the all shows
 Uses API calling from tmdb
 
